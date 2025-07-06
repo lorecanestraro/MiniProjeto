@@ -63,7 +63,26 @@ li {
   align-items: center;
 }
 
-li.done {
+li.done span {
   text-decoration: line-through;
   color: gray;
+}
+
+li div {
+    display: flex;
+    gap: 5px;
+}
+
+li .edit-btn {
+    background-color: #f59e0b;
+}
+li .edit-btn:hover {
+    background-color: #d97706;
+}
+
+li .delete-btn {
+    background-color: #ef4444;
+}
+li .delete-btn:hover {
+    background-color: #dc2626;
 }
