@@ -10,7 +10,7 @@ function addTask() {
         return;
     }
 
-    //cria nova lista item
+    //cria nova lista itemm
     const li = document.createElement('li');
     li.innerHTML = `
         <span>${taskText}</span>
