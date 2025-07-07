@@ -60,4 +60,6 @@ Este projeto foi desenvolvido pela seguinte equipe:
 | **Pedro Paulo** | Implementação da lógica inicial em JavaScript, incluindo as funcionalidades básicas de adicionar e manipular tarefas.                       |
 | **Guilherme Lerner** | Implementação de funcionalidades avançadas (Edição, Persistência com LocalStorage, Confirmação de exclusão) e elaboração da documentação. |
 
+
+LINK DO TRELLO: https://trello.com/invite/b/686b09f1b81e4fe91736be7a/ATTI859bf2435830d5efcf1b8a76105a7b06556B5678/to-do
 ---
